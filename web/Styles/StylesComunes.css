@@ -1,0 +1,89 @@
+body{
+	margin-top: 20px;
+}
+
+.LOGOUDEA{
+	width: 100px;
+	height: 110px;
+}
+
+.LOGOGRUPO{
+    width: 170px;
+    height: 100px;
+}
+
+.TABLAHEAD{
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #116043;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #116043;
+
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #116043;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #116043;
+    height: 120px;
+}
+
+.CELDAHEAD{
+	text-align: center;		
+	font-family: "Candara";
+	color: #116043;
+}
+
+.TABLAFOOT{
+    width: 100%;
+    border-top-width: 1px;
+    border-top-style: dashed;
+    border-top-color: #116043;
+}
+
+.TEXTOFOOT{
+    font-family: "Candara";
+    font-size: 11px;
+    font-weight: normal;
+    font-style: italic;
+    color: #116043;
+    text-align: center;
+    padding-top: 5px;
+}
+
+a{
+    color: #116043;	
+}
+
+a:hover{
+    color: #09B262;	
+}
+
+.CIERRESESION{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: bold;
+    color: #116043;
+    text-align: right;
+}
+
+.TEXTOMENSAJE{
+    font-family: 'Candara';
+    font-size: 18px;
+    font-weight: bold;
+    color: #116043;
+    text-align: center;
+}
+
+.BOTONFORM{
+    font-family: "Candara";
+    font-size: 11px;
+    background: #116043;
+    color: #FFFFFF;
+    border: 1px solid #116043;
+    height: 20px;
+    width: 80px;
+}
